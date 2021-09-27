@@ -1,5 +1,5 @@
-from Sibyl_System import SIBYL, ENFORCERS
-from Sibyl_System import System
+from Hertz import SIBYL, ENFORCERS
+from Hertz import System
 import asyncio
 from telethon import events
 import re 
