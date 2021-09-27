@@ -1,4 +1,4 @@
-from Sibyl_System import System, system_cmd
+from Hertz import System, system_cmd
 from telethon import events
 import asyncio
 import os
