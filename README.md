@@ -81,4 +81,4 @@ Sibyl is under active development and some future plans include
 - I don't want people from uniborg or ftg or other userbots to put there plugins (those weird animation ones or useless ones) in Sibyl System 
 
 
-#Credit - DragSama
+# *Credit - DragSama*
