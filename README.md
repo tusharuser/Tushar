@@ -20,13 +20,6 @@ You can get both of these from my.telegram.org
 - ` GBAN_MSG_LOGS `:Where to gban user, Set to None and it will send /gban in Sibyl_logs
 ------------
 
-## Purpose and schematics
-
-Based on the popular anime series "Psycho Pass", Sibyl is designed to work in a judgement and scan system where groups can request Cymatic scans for spammers, this then connects to the Sibyl network and sends the data to Sibyl for judgement, upon the approval of which the user is judged by the dominator. [Base idea of Sibyl](https://psychopass.fandom.com/wiki/Sibyl_System "Base idea of Sibyl")
-
-> To create and manage all Dominators and scanner systems in-country and to monitor the behavior of MWPSB personnel
-
-------------
 
 
 ------------
