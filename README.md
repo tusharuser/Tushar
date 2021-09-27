@@ -1,7 +1,7 @@
-[![Sibyl System](https://i.imgur.com/elrXfOE.jpg "Sibyl System")](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
+[![Hertzian]](https://github.com/Hertzian1/Hertzian")
 
 
-# Sibyl System
+# Hertzian
 > A proactive judgement system for group chats.
 
 ## A Telethon UserBot to make gbanning easy 
@@ -79,3 +79,6 @@ Sibyl is under active development and some future plans include
 
 >Why not getting list of all module instead of manually putting module in to_load?
 - I don't want people from uniborg or ftg or other userbots to put there plugins (those weird animation ones or useless ones) in Sibyl System 
+
+
+#Credit - DragSama
