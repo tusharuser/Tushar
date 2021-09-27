@@ -1,4 +1,4 @@
-on_string = "This chat is connected to Sibyl, Cymatic scans are now possible!"
+on_string = "This chat is connected to Hertz, Hertzian scans are now possible!"
 
 #Make sure not to change this too much 
 #If you still wanna change it change the regex too
