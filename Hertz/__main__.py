@@ -15,7 +15,7 @@ from Hertz.systema import to_load
 HELP = {}
 IMPORTED = {}
 for load in to_load: 
-    imported = importlib.import_module("Sibyl_System.plugins." + load)
+    imported = importlib.import_module("Hertz.systema." + load)
     if not hasattr(imported, "__plugin_name__"):
         imported.__plugin_name__ = imported.__name__
 
