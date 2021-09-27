@@ -1,7 +1,7 @@
 from telethon.tl.functions.users import GetFullUserRequest
-from Sibyl_System import Sibyl_logs, ENFORCERS, SIBYL, Sibyl_approved_logs
-from Sibyl_System.strings import scan_request_string, scan_approved_string
-from Sibyl_System import System, system_cmd
+from Hertz import Sibyl_logs, ENFORCERS, SIBYL, Sibyl_approved_logs
+from Hertz.strings import scan_request_string, scan_approved_string
+from Hertz import System, system_cmd
 from telethon import events
 import asyncio
 
