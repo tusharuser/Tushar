@@ -1,10 +1,10 @@
-from Sibyl_System import Sibyl_logs, ENFORCERS, SIBYL, Sibyl_approved_logs, GBAN_MSG_LOGS
-from Sibyl_System.strings import scan_request_string, scan_approved_string
-from Sibyl_System import System
+from Hertz import Sibyl_logs, ENFORCERS, SIBYL, Sibyl_approved_logs, GBAN_MSG_LOGS
+from Hertz.strings import scan_request_string, scan_approved_string
+from Hertz import System
 from telethon import events
 import re
 import asyncio
-from Sibyl_System import session
+from Hertz import session
 import logging 
 
 async def gban(enforcer, target, reason, msg_id, approved_by):
