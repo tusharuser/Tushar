@@ -1,10 +1,10 @@
 import pymongo 
-from Sibyl_System import System, SIBYL, ENFORCERS, Sibyl_logs, system_cmd
+from Hertz import System, SIBYL, ENFORCERS, Sibyl_logs, system_cmd
 from telethon import events 
 import asyncio 
 import re 
-from Sibyl_System.plugins.Mongo_DB.message_blacklist import get_blacklist, update_blacklist
-from Sibyl_System.plugins.Mongo_DB.name_blacklist import get_wlc_bl, update_wlc_blacklist
+from Hertz.systema.Mongo_DB.message_blacklist import get_blacklist, update_blacklist
+from Hertz.systema.Mongo_DB.name_blacklist import get_wlc_bl, update_wlc_blacklist
 
 @System.on(system_cmd(pattern = r'addbl'))
 async def addbl(event):
