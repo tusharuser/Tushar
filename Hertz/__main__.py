@@ -1,6 +1,6 @@
 
-from Sibyl_System import SIBYL, Sibyl_logs, API_ID_KEY, API_HASH_KEY, STRING_SESSION, System
-from Sibyl_System.strings import on_string
+from Hertz import SIBYL, Sibyl_logs, API_ID_KEY, API_HASH_KEY, STRING_SESSION, System
+from Hertz.strings import on_string
 from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 import logging
@@ -10,7 +10,7 @@ import importlib
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-from Sibyl_System.plugins import to_load
+from Hertz.systema import to_load
 
 HELP = {}
 IMPORTED = {}
