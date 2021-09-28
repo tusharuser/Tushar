@@ -1,4 +1,4 @@
-[![Deploy to Heroku]](https://github.com/Hertzian1/Hertzian")
+[![Deploy to Heroku]](https://github.com/tusharuser/tushar")
 
 
 # Hertzian
